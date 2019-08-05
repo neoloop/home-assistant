@@ -18,3 +18,16 @@ entrez cette ligne
     wget -qO - https://raw.githubusercontent.com/whiskerz007/proxmox_hassos_install/master/install.sh | bash -s local-lvm
 
 https://github.com/whiskerz007/proxmox_hassos_install
+
+## Pour accéder au Proxmox. 
+
+lancez votre navigateur web et tapez: [https://adresse_ip_du_serveur:8006/](https://adresse_ip_du_serveur:8006/)
+
+Une fois rendu sur la page, une fenêtre apparaitra pour rentrer vos identifiants.
+
+ - Nom d'utilisateur: root
+ - votre mot de passe administrateur.
+
+Pour mettre à jour la distribution proxmox :
+
+    apt-get distupgrade
