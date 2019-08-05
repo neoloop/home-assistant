@@ -28,6 +28,3 @@ Une fois rendu sur la page, une fenêtre apparaitra pour rentrer vos identifiant
  - Nom d'utilisateur: root
  - votre mot de passe administrateur.
 
-Pour mettre à jour la distribution proxmox :
-
-    apt-get distupgrade
