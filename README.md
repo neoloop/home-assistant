@@ -1,4 +1,4 @@
-# Home Assistant sur Proxmox
+# Home Assistant
 
 Pense pete en français pour installer Home assistant sur un **Proxmox** (machine virtuel)
 
@@ -27,4 +27,23 @@ Une fois rendu sur la page, une fenêtre apparaitra pour rentrer vos identifiant
 
  - Nom d'utilisateur: root
  - votre mot de passe administrateur.
+ - 
+Pour mettre à jour la distribution proxmox :
+apt-get distupgrade
+
+## add on installé
+
+SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+
+|      Nom          |                Url        |
+|----------------|-------------------------------|
+|Mosquitto broker|https://mosquitto.org           |
+|SSH server          |           |
+|Samba share         ||
+|Z-Wave to MQTT        |[Z-Wave to MQTT page](https://github.com/hassio-addons/addon-zwave2mqtt)|
+|Configurator        |[Configurator page](https://home-assistant.io/addons/configurator)|
+
+pensez a ajouter dans Proxmox la clef USB. 
+
+## UML diagrams
 
