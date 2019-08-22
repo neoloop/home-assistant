@@ -42,8 +42,10 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Samba share         ||
 |Z-Wave to MQTT        |[Z-Wave to MQTT page](https://github.com/hassio-addons/addon-zwave2mqtt)|
 |Configurator        |[Configurator page](https://home-assistant.io/addons/configurator)|
+|ConBee II        |installer deCONZ + aller dans |
+|RFXCOM        |ajouter une ligne dans configuration.yaml
+ 
 
 pensez a ajouter dans Proxmox la clef USB. 
 
 ## UML diagrams
-
