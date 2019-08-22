@@ -1,4 +1,4 @@
-# Home Assistant
+# Home Assistant sur Proxmox
 
 Pense pete en français pour installer Home assistant sur un **Proxmox** (machine virtuel)
 
